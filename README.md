@@ -46,9 +46,7 @@ _________
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma: <a align="center" href="https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546">
-  <img alt="" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
+O layout da aplicação está disponível no [Figma][figma].
 
 _________
 
@@ -174,3 +172,4 @@ Feito com 💙 por **Philipe Perete** 👻.
 [vscode]: https://code.visualstudio.com/ 
 [license]: https://opensource.org/licenses/MIT
 [rs]: https://rocketseat.com.br
+[figma]: https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546
