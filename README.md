@@ -38,7 +38,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 - Navegar pelo mapa para ver as instituições cadastradas,
 - Entrar em contato com as empresas/entidades através do e-mail ou WhatsApp.
 
-Projeto foi desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs) 🚀.
+Projeto foi desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat][rs] 🚀.
 
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
@@ -104,7 +104,7 @@ _________
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/philipeperete/NextLevelWee
+$ git clone https://github.com/philipeperete/NextLevelWeek
 
 # Acesse a pasta do projeto no terminal/cmd.
 $ cd ecoleta
@@ -129,7 +129,7 @@ _________
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/philipeperete/NextLevelWee
+$ git clone https://github.com/philipeperete/NextLevelWeek
 
 # Acesse a pasta do projeto no seu terminal/cmd.
 $ cd ecoleta
@@ -157,10 +157,11 @@ Para mais detalhes, acesse [license](LICENSE).
 
 _________
 
-Agradecimentos [Rocketseat](rs) 🚀.
+Agradecimentos [Rocketseat][rs] 🚀.
 
 * Twitter: [Philipe Perete](https://twitter.com/PhilipePerete).
 * Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104/).
+* Github: [Philipe Perete](https://github.com/philipeperete).
 
 Feito com 💙 por **Philipe Perete** 👻.
 
@@ -168,8 +169,7 @@ Feito com 💙 por **Philipe Perete** 👻.
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
 [reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/ 
-[vscode]: https://code.visualstudio.com/ 
-[license]: https://opensource.org/licenses/MIT
+[rn]: https://reactnative.dev/ 
+[vscode]: https://code.visualstudio.com/  
 [rs]: https://rocketseat.com.br
 [figma]: https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546
