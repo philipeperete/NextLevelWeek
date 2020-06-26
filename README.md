@@ -156,3 +156,21 @@ _________
 
 Este projeto esta sobe a licença MIT.
 Para mais detalhes, acesse [license](LICENSE).
+
+_________
+
+Agradecimentos [Rocketseat](rs) 🚀.
+
+* Twitter: [Philipe Perete](https://twitter.com/PhilipePerete).
+* Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104/).
+
+Feito com 💙 por **Philipe Perete** 👻.
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/ 
+[vscode]: https://code.visualstudio.com/ 
+[license]: https://opensource.org/licenses/MIT
+[rs]: https://rocketseat.com.br
