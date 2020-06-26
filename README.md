@@ -50,7 +50,7 @@ O layout da aplicação está disponível no [Figma][figma].
 
 _________
 
-### 📱 Mobile
+## 📱 Mobile
 
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
@@ -61,7 +61,7 @@ _________
 
 _________
 
-### 💻 Web
+## 💻 Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
@@ -81,7 +81,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 _________
 
-### 💡 Pré-requisitos
+## 💡 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js][nodejs]. 
@@ -100,7 +100,7 @@ Podemos considerar este projeto como sendo divido em três partes:
 
 _________
 
-### ⚽ Rodando o Back end (Servidor)
+## ⚽ Rodando o Back end (Servidor)
 
 ```bash
 # Clone este repositório.
@@ -125,7 +125,7 @@ $ npm run dev
 ```
 _________
 
-### ⚽ Rodando a aplicação web (Front end)
+## ⚽ Rodando a aplicação web (Front end)
 
 ```bash
 # Clone este repositório.
